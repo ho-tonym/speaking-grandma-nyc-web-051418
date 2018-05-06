@@ -6,6 +6,7 @@ elsif string == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 elsif string.upcase == string
   return "NO, NOT SINCE 1938!"
+end
 
 end
 
